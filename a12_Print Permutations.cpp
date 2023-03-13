@@ -26,3 +26,6 @@ void solve(vector<int>&ds, vector<int>arr, vector<bool>&flag, vector<vector<int>
         
     }
 };
+
+
+//link: https://www.codingninjas.com/codestudio/problems/758958?topList=striver-sde-sheet-problems&leftPanelTab=0
