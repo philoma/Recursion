@@ -4,7 +4,7 @@ public:
 void solve(vector<int>&ds, vector<int>arr, vector<bool>&flag, vector<vector<int>>&ans){
 
     if(ds.size()==arr.size()){
-        ans.push_back(ds);
+        ans.push_back(ds); return;
     }
 
     for(int i=0;i<arr.size();i++){
